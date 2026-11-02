@@ -29,7 +29,7 @@ Time Complexity: To be analyzed after implementation.
 Space Complexity: To be analyzed after implementation.
 
 Problem Reference:
-https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
+https://www.geeksforgeeks.org/problems/reverse-a-string/1
 """
 
 
