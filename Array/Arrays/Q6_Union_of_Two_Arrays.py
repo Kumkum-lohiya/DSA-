@@ -61,3 +61,22 @@ class Solution:
 
         # Return the sorted union
         return sorted(arr)
+
+
+
+OR
+
+
+
+class Solution:
+    def findUnion(self, a, b):
+        unique = set()
+
+        for num in a:
+            unique.add(num)
+
+        for num in b:
+            unique.add(num)
+
+        return sorted(unique)
+
